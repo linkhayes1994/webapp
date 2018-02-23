@@ -1,0 +1,56 @@
+h1 {
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 50px;
+	text-align: center;
+}
+
+main {
+	width: 624px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Dabber {
+	background-color:;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.article{
+	width: 33%;
+}
+
+footer{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: auto 50px;
+	margin-top: 20px;
+	padding: 30px 0;
+}
+
+footer p{
+	width:624px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.article img{
+	opacity:.25;
+}
+
+.author {
+	margin-top:-8;
+	background-color:;
+}
+.article h2{
+	line-height:35px;
+	margin-top: 5px;
+}
+
+.date {
+	
+	font-size: 12px;
+	
+}
